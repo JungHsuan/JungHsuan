@@ -1,9 +1,9 @@
 ### Hi there 👋 I am JH.
 <a href="https://github.com/JungHsuan">
-  <img align="top" height="200" style="margin:20px" src="https://github-readme-stats.vercel.app/api?username=junghsuan&count_private=true&hide=issues" />
+  <img align="top"src="https://github-readme-stats.vercel.app/api?username=junghsuan&count_private=true&hide=issues" />
 </a>
 <a href="https://github.com/JungHsuan">
-  <img align="top" height="200" style="margin:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghsuan&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghsuan&layout=compact" />
 </a>
 
 <!--
