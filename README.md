@@ -1,8 +1,10 @@
 ### Hi there 👋 I am JH.
-
-[![](https://github-readme-stats.vercel.app/api?username=junghsuan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)      
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=junghsuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/JungHsuan">
+  <img align="top" height="200" style="margin:20px" src="https://github-readme-stats.vercel.app/api?username=junghsuan&count_private=true&hide=issues" />
+</a>
+<a href="https://github.com/JungHsuan">
+  <img align="top" height="200" style="margin:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghsuan&layout=compact" />
+</a>
 
 <!--
 **JungHsuan/JungHsuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
