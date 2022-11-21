@@ -1,10 +1,4 @@
-### Hi there 👋 I am JH.
-<a href="https://github.com/JungHsuan">
-  <img align="top"src="https://github-readme-stats.vercel.app/api?username=junghsuan&count_private=true&hide=issues" />
-</a>
-<a href="https://github.com/JungHsuan">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghsuan&layout=compact" />
-</a>
+### Hi there 👋 I am JH
 
 <!--
 **JungHsuan/JungHsuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
